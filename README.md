@@ -4,7 +4,6 @@
       <img alt="logoNova" title="NOVA" src="https://github.com/eu1natacha/AgenciaVIAJERO/blob/main/img/logoteste.png" width="200vw"/>
 </h1>
 
-<h4 align="center"> :construction: Projeto em construção :construction: </h4>
 
 ## 💻 Sobre o projeto
 Esse é um projeto de website de agência de viagens, desenvolvido durante o curso de desenvolvimento de software fullstack Recode PRO 2023. No projeto, criei uma agencia de viagens fictícia chamada VIAJERO, como oportunidade de demonstrar os meus conhecimentos adquiridos em cada módulo do curso.
